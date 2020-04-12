@@ -44,7 +44,7 @@ NLP classification was done using fastai's text library.
 Two notebooks were used for NLP classification:
 <ol>
   <li>create_image_datasets.ipynb - notebook to create training set.</li>
-  <li>model_image.ipynb - notebook that runs the nlp classifier.</li>
+  <li>model_language.ipynb - notebook that runs the nlp classifier.</li>
 </ol>
 
 ## Image classification
