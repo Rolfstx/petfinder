@@ -38,6 +38,14 @@ A test set was created from the train.csv to check our accuracy. This was done i
 
 ## Table classification
 
+Table classification was done with a trial and error methodology. We tried out 10 different classification algorithms with 3 different models in order to compare the results and the accuracy achieved:
+<ol>
+  <li>Basic cleaned model.ipynb - notebook of the first model that uses the cleaned dataset from Trifacta</li>
+  <li>Second model.ipynb - notebook that comprises a feature engineered model (rescuer_count_ID, state_GDP, etc.) and factorizes categorical variables</li>
+  <li>Third model.ipynb - notebook with the extensive feature engineered model which binarizes each column and creates subcategories</li>
+</ol>
+
+
 ## NLP classification
 NLP classification was done using fastai's text library. 
 
